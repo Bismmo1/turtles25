@@ -1,7 +1,4 @@
---[[
-  Maze Solver Turtle Script (Randomized Depth-First Search)
-]]
-
+--Maze Solver Turtle Script (Randomized Depth-First Search)
 -- --- Configuration ---
 local START_BLOCK = "green" -- Optional: block name for the start area
 local END_BLOCK = "yellow"  -- Block name for the maze exit/victory area
